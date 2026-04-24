@@ -1,15 +1,13 @@
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nguyen%20Le%20Duc%20Thinh&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20AI%20Integration%20Enthusiast&descAlignY=58&descSize=18&descColor=a0c4ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nguyen%20Le%20Duc%20Thinh&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Mobile%20Developer&descAlignY=58&descSize=18&descColor=a0c4ff" />
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=550&lines=⚡+Frontend+Developer;🔥+React+%7C+Next.js+%7C+TypeScript;🎯+Clean+UI%2FUX+%26+Performance;🚀+Real-time+Web+Apps;🤖+AI+Integration" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=550&lines=⚡+Frontend+Developer;📱+Mobile+App+Developer;🎯+Clean+UI%2FUX+%26+Performance;🤖+AI+Integration+Enthusiast" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thinhne19&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/thinhne19?label=Followers&style=social" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=thinhne19&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/thinhne19?label=Followers&style=social" />
 </p>
 
 ---
