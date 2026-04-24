@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nguyen%20Le%20Duc%20Thinh&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Mobile%20Developer&descAlignY=58&descSize=18&descColor=a0c4ff" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=550&lines=⚡+Frontend+Developer;📱+Mobile+App+Developer; />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=550&lines=⚡+Frontend+Developer;📱+Mobile+App+Developer;" />
 </p>
 
 <p align="center">
